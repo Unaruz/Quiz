@@ -11,6 +11,7 @@ public class Test {
 		//System.out.print(" ");
 		//System.out.println("salah");
         System.out.println(1+2);
+        // J'ajoute un commentaire
 	}   
 	
 }
