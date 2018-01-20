@@ -6,10 +6,11 @@ public class Test {
 		// c'est:
 		// System.out.println(".....");
 		// System.out.print("....."); // mais ne retourne pas à la ligne
-		System.out.println("fatima" + " salah");
-		System.out.println("2" + " + " + "3");
+		System.out.println("*****");
+		System.out.println("**");
 		//System.out.print(" ");
 		//System.out.println("salah");
+        System.out.println(1+2);
 	}   
 	
 }
